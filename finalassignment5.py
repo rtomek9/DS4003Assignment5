@@ -10,7 +10,7 @@ Original file is located at
 !pip install dash
 
 # compiling all code for .py file
-
+server = app.server
 import pandas as pd
 import numpy as np
 import plotly.express as px
