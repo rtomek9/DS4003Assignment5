@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1XT4gZizu2s4tIqKUZ8bfUY1ARs_ogDAS
 """
 
-!pip install dash
 
 # compiling all code for .py file
 server = app.server
